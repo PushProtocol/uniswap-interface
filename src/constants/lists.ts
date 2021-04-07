@@ -1,6 +1,6 @@
 // used to mark unsupported tokens, these are hosted lists of unsupported tokens
 
-const COMPOUND_LIST = 'https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json'
+const COMPOUND_LIST = 'https://pushprotocol.com/wp-content/uploads/2021/04/tokens.json'
 const UMA_LIST = 'https://umaproject.org/uma.tokenlist.json'
 const AAVE_LIST = 'tokenlist.aave.eth'
 const SYNTHETIX_LIST = 'synths.snx.eth'
